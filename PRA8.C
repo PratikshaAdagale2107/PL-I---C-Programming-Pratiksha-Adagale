@@ -1,3 +1,6 @@
+Program(8)
+Solution(2)-User defined values
+
 #include <stdio.h>// Includes the standard input-output library for printf and scanf 
 int main()
 {
