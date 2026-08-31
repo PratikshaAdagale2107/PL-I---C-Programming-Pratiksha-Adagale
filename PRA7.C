@@ -1,4 +1,6 @@
-#include <stdio.h>
+4. Write a C program to swap two numbers using temporary variables
+Program(7)
+Solution(1)-Predefined values
 
 #include<stdio.h>// Includes the standard input-output library for printf
 int main()
