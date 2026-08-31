@@ -1,3 +1,7 @@
+3.Write a program to calculate the average of three numbers.
+Program(5)
+Solution(1)-Predefined values
+
 #include <stdio.h>// Standard input-output library for printf
 
 int main()
