@@ -1,3 +1,6 @@
+Program(4)
+Solution(2)- User defined values
+
 #include <stdio.h>//Includes standard Input-Output library for printf()
 int main()
 {
