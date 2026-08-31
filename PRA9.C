@@ -1,3 +1,6 @@
+5. Write  a C program to demonstrate the use of single comment and multiline comment.
+Program (9)
+
 #include <stdio.h>// includes the standard input-output library 
 
 int main()
