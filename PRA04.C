@@ -5,8 +5,10 @@ Solution(2)- User defined values
 int main()
 {
 //Declaration and initialization of the variable
-float radius = 1.1;
-float area;
+float radius, area;
+
+printf("\n Enter the radius of the circle:");
+scanf("%f,&radius);
 area = (3.14*radius*radius);
 printf("\n Area of Circle = %f", area);
 //Indicate that the program completed successfully
